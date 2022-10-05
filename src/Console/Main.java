@@ -14,7 +14,6 @@ public class Main {
             String message = Set.getMessage();
             ConsoleReply Get = new ConsoleReply(message);
             Get.printMessage();
-            //SUS
         }
     }
 }
