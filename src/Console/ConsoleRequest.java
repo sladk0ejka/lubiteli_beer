@@ -11,3 +11,4 @@ public class ConsoleRequest implements Request {
         return message;
     }
 }
+//smth
