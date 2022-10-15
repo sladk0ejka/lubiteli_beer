@@ -11,3 +11,4 @@ public class ConsoleReply implements Reply {
         System.out.println(message);
     }
 }
+//smthr
